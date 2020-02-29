@@ -1,0 +1,16 @@
+.layout-header {
+  padding: 0 20px !important;
+  background: #ffffff;
+}
+
+.item-right {
+  float: right;
+  height: 100%;
+  overflow: hidden;
+}
+
+.ant-badge {
+  height: 100%;
+  padding: 0 12px;
+  display: inline-block;
+}

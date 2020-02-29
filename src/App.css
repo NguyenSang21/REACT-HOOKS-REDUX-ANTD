@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+#root {
+  height: 100%;
+}
+
+.content-layout {
+  margin: 10px 16px;
+}
+
+.bread-crumb-card {
+  margin-top: 1px;
+}
